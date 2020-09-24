@@ -97,11 +97,11 @@ author:
   avatar           : "/assets/lapras.png"
   bio              : 
   location         : 
-  email            : sandback7@mensakorea.org
+  email            : 
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-       url: "mailto:sandback7@mensakorea.org"
+      # url: "mailto:sandback7@mensakorea.org"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"

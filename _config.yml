@@ -10,8 +10,8 @@
 # Review documentation to determine if you should use `theme` or `remote_theme`
 # https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/#installing-the-theme
 
-# theme                  : "minimal-mistakes-jekyll"
-remote_theme           : "mmistakes/minimal-mistakes"
+theme                  : "minimal-mistakes-jekyll"
+# remote_theme           : "mmistakes/minimal-mistakes"
 minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
@@ -19,9 +19,9 @@ locale                   : "en-US"
 title                    : "Freeze-Dry!"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "L4pras"
+name                     : "Your Name"
 description              : "An amazing website."
-url                      :  the base hostname & protocol for your site e.g. "https://L4pras.github.io"
+url                      : "https://L4pras.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
@@ -96,7 +96,7 @@ author:
   name             : "L4pras"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Ready for Sparkling Aria?"
-  location         : "Somewhere"
+  location         : "Net ball"
   email            :
   links:
     - label: "Email"

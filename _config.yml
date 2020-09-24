@@ -19,8 +19,8 @@ locale                   : "en-US"
 title                    : Freeze-Dry!
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : L4pras
-description              : and Sparkling aria!
+name                     : "L4pras"
+description              : "and Sparkling aria!"
 url                      : https://L4pras.github.io
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"

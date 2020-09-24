@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Site Title"
+title                    : "Freeze-Dry!"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "L4pras"
@@ -93,11 +93,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "L4pras"
   avatar           : "/assets/lapras.png"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
-  email            :
+  bio              : 
+  location         : 
+  email            : sandback7@mensakorea.org
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
